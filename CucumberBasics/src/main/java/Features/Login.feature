@@ -4,3 +4,4 @@ Feature: To check that main tutorial course pages have loaded in TheTestRoom.com
 		Given I navigate to TheTestRoom.com
 		When I navigate to Cucumber Tutorial page
 		Then the page title should be visible
+		
